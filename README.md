@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I'm Just about to start my journey with School of Code
+- 🌱 I'm Just finished my educational journey with School of Code
+- Ready to start my new career as a full stack developer
 - ⚡ Fun fact: ... I can ride a Unicycle 
 
 <h3 align="left">Languages and Tools:</h3>
